@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://baptiste-leroux.github.io/sitemap.xml
