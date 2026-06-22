@@ -9,7 +9,7 @@ calendar: true
 ---
 
 ## 2025-2026
-Mathématiques et Calcul 1, L1, Université Paris Cité
+Mathématiques et Calcul 1, L1, Université Paris Cité\\
 
 **Sujets des interrogations**
 - [Interrogation n°1 : Rudiments de logique](https://baptiste-leroux.github.io/assets/pdf/Interro1_MC1.pdf)
