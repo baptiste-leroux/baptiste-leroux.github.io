@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at MAP5, Université Paris Cité, under the supervision of [Anne Sabourin](https://helios2.mi.parisdescartes.fr/~asabouri/) and [Clément Dombry](https://cdombry.perso.math.cnrs.fr/). My reseach interests include Extreme Value Theory, and statistical learning theory, with a focus on Support Vector Machine algorithms. More precisely, my research aims at designing Machine Learning algorithms tailored for extrapolation tasks.
+I am a PhD student at [MAP5](https://map5.mi.parisdescartes.fr/), Université Paris Cité, under the supervision of [Anne Sabourin](https://helios2.mi.parisdescartes.fr/~asabouri/) and [Clément Dombry](https://cdombry.perso.math.cnrs.fr/). My reseach interests include Extreme Value Theory, and statistical learning theory, with a focus on kernel methods. More specifically, my PhD project investigates how machine learning algorithms can be tailored for extrapolation tasks within an extreme value framework.
