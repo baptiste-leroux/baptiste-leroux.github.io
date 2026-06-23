@@ -28,7 +28,16 @@ cv:
         area: Mathematics, Statistics, Probability
         start_date: 2024
         end_date: 2025
-        
+
+        - institution: MAP5, Université Paris Cité
+        location: Paris, France
+        studyType: PhD
+        start_date: 2025
+        end_date: now
+        score: ""
+        highlights:
+          - Learning with heavy-tailed inputs':' Out-of-domain Generalization on Extremes
+          - Under the superivision of and Clément Dombry.
     Experience:
       - company: Lycée Michelet
         position: Mathematics teacher
