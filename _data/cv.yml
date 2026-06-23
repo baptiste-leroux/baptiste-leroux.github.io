@@ -31,7 +31,8 @@ cv:
 
       - institution: MAP5, Université Paris Cité
         location: Paris, France
-        area: Statistics, Extreme Value Analysis, Machine Learning
+        studyType: PhD
+        area: Learning with heavy-tailed inputs: Out-of-domain Generalization on Extremes
         start_date: 2025
         end_date: NOW
         highlights:
