@@ -36,7 +36,7 @@ cv:
         end_date: now
         score: ""
         highlights:
-          - Learning with heavy-tailed inputs':' Out-of-domain Generalization on Extremes
+          - Learning with heavy-tailed inputs: Out-of-domain Generalization on Extremes
           - Under the superivision of and Clément Dombry.
     Experience:
       - company: Lycée Michelet
