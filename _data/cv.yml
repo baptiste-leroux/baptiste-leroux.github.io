@@ -8,21 +8,16 @@ cv:
   social_networks:
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
+      - institution: Classe Préparatoire MPSI-MP
+        location: Lycée Faidherbe, France
         url: https://www.uzh.ch/
         area: Physics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2018
+        end_date: 2020
         score: ""
         courses: "Theory of Relativity"
         highlights:
