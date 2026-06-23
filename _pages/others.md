@@ -7,5 +7,4 @@ nav: true
 nav_order: 6
 calendar: true
 ---
-##
 My main hobby is playing the piano. I especially like playing piano pieces from the the late 19th/early 20th century. For several years I have been working on [Iberia](https://en.wikipedia.org/wiki/Iberia_(Alb%C3%A9niz)).
