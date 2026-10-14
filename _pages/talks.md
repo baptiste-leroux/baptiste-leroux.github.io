@@ -13,7 +13,7 @@ calendar: true
 - 8/10/2026 : LAGA, Séminaire des doctorants, [slides](https://baptiste-leroux.github.io/assets/pdf/Out_quantil_reg_beamer.pdf)
   
 
-- 3/06/2026 : [Journées de Statistique](https://jds2026.sciencesconf.org/?lang=fr), [slides](https://baptiste-leroux.github.io/assets/pdf/Out_quantil_reg_beamer.pdf), [abstract](https://baptiste-leroux.github.io/assets/pdf/abstract_jds.pdf)
+- 3/06/2026 : Journées de Statistique 2026, [slides](https://baptiste-leroux.github.io/assets/pdf/Out_quantil_reg_beamer.pdf), [abstract](https://baptiste-leroux.github.io/assets/pdf/abstract_jds.pdf)
 
 *Out-of-Distribution generalization of quantile regression with heavy tailed inputs: an SVM approach* 
 
