@@ -12,12 +12,13 @@ calendar: true
 
 - 8/10/2026 : LAGA, Séminaire des doctorants, [slides](https://baptiste-leroux.github.io/assets/pdf/Out_quantil_reg_beamer.pdf)
   
+- 24/07/2026 : [Second Workshop on Mathematical Data Science](https://www.mathematicaldatascience.com/), [slides](https://baptiste-leroux.github.io/assets/pdf/Out_quantil_reg_beamer.pdf)
 
 - 3/06/2026 : Journées de Statistique 2026, [slides](https://baptiste-leroux.github.io/assets/pdf/Out_quantil_reg_beamer.pdf), [abstract](https://baptiste-leroux.github.io/assets/pdf/abstract_jds.pdf)
 
 *Out-of-Distribution generalization of quantile regression with heavy tailed inputs: an SVM approach* 
 
--2/03/2026 : LMB, Séminaire Probabilités et Statistique [slides](https://baptiste-leroux.github.io/assets/pdf/Out_quantil_reg_beamer.pdf)
+- 2/03/2026 : LMB, Séminaire Probabilités et Statistique [slides](https://baptiste-leroux.github.io/assets/pdf/Out_quantil_reg_beamer.pdf)
 
 - 20/03/2026 : MAP5, Groupe de travail des Éphémères (GTE)
 
