@@ -4,7 +4,7 @@ permalink: /others/
 title: others
 description:
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 I have been playing the piano as an amateur for many years. I especially like playing piano pieces from the late 19th/early 20th century. Here is a short list of pieces I have been working on :
 - Iberia by Isaac Albéniz (not the full suite, but most of it!).
